@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- use "@android:drawable/btn_default" to keep consistent with system -->
+    <!-- <item android:drawable="@drawable/btn_incall_func_bg" /> -->
+    <item>
+        <bitmap android:src="@drawable/ic_incall_func_speaker_checked"
+          android:gravity="center" />
+	</item>
+</layer-list> 

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="string_profile">"Profile"</string>
+    <string name="string_profile_notification">"Notification settings"</string>
+    <string name="string_profile_display">"Display"</string>
+    <string name="string_profile_content">"Content"</string>
+</resources>

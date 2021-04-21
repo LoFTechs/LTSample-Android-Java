@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="string_member_list">"Member List"</string>
+    <string name="member_invite">"Invite"</string>
+    <string name="member_Kick">"Kick"</string>
+    <string name="member_user_id">"UserID"</string>
+    <string name="member_invite_member">"Invite member"</string>
+</resources>

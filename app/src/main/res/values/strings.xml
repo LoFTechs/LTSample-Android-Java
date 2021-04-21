@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LTSample</string>
+    <string name="string_yes">Yes</string>
+    <string name="string_cancel">Cancel</string>
+    <string name="string_check">Check</string>
+    <string name="prompt_user">user</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="string_connect">"Connect"</string>
+    <string name="string_disconnect">"Disconnect"</string>
+    <string name="string_send_fcm_token">"Send FCM token"</string>
+    <string name="string_im">"IM"</string>
+    <string name="string_set">"Set"</string>
+    <string name="string_mute">"Mute"</string>
+    <string name="string_chat_list">"ChatList"</string>
+    <string name="string_chat">"Chat"</string>
+    <string name="string_send_message">"Send Message"</string>
+    <string name="string_send">"Send"</string>
+    <string name="string_send_image">"Send Image"</string>
+    <string name="string_send_doc">"Send Document"</string>
+    <string name="string_chat_create">"ChatCreate"</string>
+    <string name="string_nickname">"Nickname"</string>
+    <string name="string_status">Status</string>
+</resources>

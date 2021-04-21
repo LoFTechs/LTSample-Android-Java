@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chat_settings">"Chat Settings"</string>
+    <string name="chat_settings_subject">"Subject"</string>
+    <string name="chat_settings_member_list">"MemberList"</string>
+    <string name="chat_settings_dismiss">"Dismiss"</string>
+    <string name="chat_settings_leave">"Leave"</string>
+</resources>

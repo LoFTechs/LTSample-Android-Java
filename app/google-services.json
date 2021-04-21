@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034443028467",
+    "project_id": "ltsample-22403",
+    "storage_bucket": "ltsample-22403.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034443028467:android:b235f98c1ddb4252aa0486",
+        "android_client_info": {
+          "package_name": "com.loftechs.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034443028467-docc18hi42vabj66cmsp25u02tlqohdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-HcHXxMKw_w1enoiKKeL5XNgWfKw2JWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034443028467-docc18hi42vabj66cmsp25u02tlqohdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

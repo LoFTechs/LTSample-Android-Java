@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="string_call">Call</string>
+    <string name="string_cdr">Call Log</string>
+    <string name="msg_waiting_for_connection">Waiting for connection</string>
+    <string name="msg_incall_calling">Dialing...</string>
+    <string name="incall_pause">Hold</string>
+    <string name="toast_warning_wrong_destination_address">Cannot build destination address from [%s]</string>
+</resources>

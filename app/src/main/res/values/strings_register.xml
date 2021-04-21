@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="string_account">Account</string>
+    <string name="string_password">Password</string>
+    <string name="string_login">Login</string>
+    <string name="string_logout">Logout</string>
+    <string name="string_register">Register</string>
+    <string name="error_input">參數有誤 (%s)</string>
+    <string name="error_password">密碼錯誤 (%s)</string>
+    <string name="error_account_no_exist">帳號不存在 (%s)</string>
+    <string name="error_account_is_already">帳號已存在 (%s)</string>
+    <string name="error_need_password">註冊需要輸入密碼 (%s)</string>
+    <string name="error_account">帳號錯誤</string>
+    <string name="error_clear_accunt">清除帳號資訊</string>
+</resources>
